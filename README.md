@@ -6,6 +6,19 @@ The project focuses on quantifying **dynamic interdependencies across assets** a
 
 ---
 
+## Research Motivation
+
+Financial markets exhibit strong cross-sectional dependence, especially during periods of stress.  
+Traditional univariate or pairwise approaches often fail to capture the **network structure of risk transmission**.
+
+This project aims to:
+- model **time-varying volatility spillovers**
+- represent spillovers as **directed weighted networks**
+- extract **systemic risk indicators** from network topology
+- study how these properties evolve across **market regimes**
+
+---
+
 ## Why the Insurance Sector and Long-Horizon Perspective?
 
 The insurance sector offers a uniquely informative setting for studying volatility spillovers and systemic risk, yet remains relatively underexplored compared to banking or asset management.
@@ -23,19 +36,6 @@ Despite these features, much of the existing literature focuses on banks or high
 This project addresses this gap by combining established econometric spillover measures with network-theoretic tools, explicitly designed for long-horizon analysis. The methodology emphasizes interpretability and structural insights rather than short-term prediction, aligning closely with the decision-making needs of insurance risk management and financial stability analysis.
 
 The empirical patterns uncovered by the framework are consistent with stylized facts documented in the broader systemic risk literature, providing validation that the approach captures meaningful economic mechanisms rather than artifact-driven relationships.
-
----
-
-## Research Motivation
-
-Financial markets exhibit strong cross-sectional dependence, especially during periods of stress.  
-Traditional univariate or pairwise approaches often fail to capture the **network structure of risk transmission**.
-
-This project aims to:
-- model **time-varying volatility spillovers**
-- represent spillovers as **directed weighted networks**
-- extract **systemic risk indicators** from network topology
-- study how these properties evolve across **market regimes**
 
 ---
 
