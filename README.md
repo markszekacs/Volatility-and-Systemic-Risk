@@ -6,6 +6,26 @@ The project focuses on quantifying **dynamic interdependencies across assets** a
 
 ---
 
+## Why the Insurance Sector and Long-Horizon Perspective?
+
+The insurance sector offers a uniquely informative setting for studying volatility spillovers and systemic risk, yet remains relatively underexplored compared to banking or asset management.
+
+Unlike short-horizon trading institutions, insurance firms are long-term risk holders. Their balance sheets are exposed not only to contemporaneous market fluctuations, but also to persistent volatility dynamics, regime shifts, and tail events unfolding over extended horizons. As a result, short-term dependence measures often fail to capture the structural risk transmission mechanisms relevant for insurers.
+
+From an empirical perspective, the insurance sector exhibits several characteristics that motivate a network-based, long-horizon approach:
+- strong cross-sectional dependence driven by common exposures and reinsurance links
+- sensitivity to prolonged volatility regimes rather than isolated shocks
+- asymmetric risk transmission during stress periods
+- heightened relevance of tail risk and systemic concentration
+
+Despite these features, much of the existing literature focuses on banks or high-frequency market interactions. Applications of connectedness and network methods to the insurance sector, particularly in a dynamic and regime-aware framework, remain comparatively limited.
+
+This project addresses this gap by combining established econometric spillover measures with network-theoretic tools, explicitly designed for long-horizon analysis. The methodology emphasizes interpretability and structural insights rather than short-term prediction, aligning closely with the decision-making needs of insurance risk management and financial stability analysis.
+
+The empirical patterns uncovered by the framework are consistent with stylized facts documented in the broader systemic risk literature, providing validation that the approach captures meaningful economic mechanisms rather than artifact-driven relationships.
+
+---
+
 ## Research Motivation
 
 Financial markets exhibit strong cross-sectional dependence, especially during periods of stress.  
